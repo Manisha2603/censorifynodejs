@@ -1,4 +1,4 @@
-var censoredword=["sad","bad","mad"]
+var censoredwords=["sad","bad","mad"]
 var customerwords=[]
 function censor(instr){
     for (idx in censoredwords){
